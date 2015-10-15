@@ -1,0 +1,4 @@
+E:\Dropbox\Devs\Coding\Semaphore\Semaphore\bin\Debug\Semaphore.exe
+E:\Dropbox\Devs\Coding\Semaphore\Semaphore\bin\Debug\Semaphore.pdb
+E:\Dropbox\Devs\Coding\Semaphore\Semaphore\obj\Debug\Semaphore.exe
+E:\Dropbox\Devs\Coding\Semaphore\Semaphore\obj\Debug\Semaphore.pdb
